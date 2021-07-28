@@ -29,7 +29,7 @@ ______________
 
 We’ve packaged four different page templates into this theme.
 
-    - Homepage template (seen on the homepage of this site - http://www.320press.com/wp-bootstrap)
+    - Homepage template (seen on the homepage of this site - https://dev.msncloud.net/msn-bootstrap)
     - Standard page with right sidebar (this page)
     - Page with left sidebar
     - Full width page
