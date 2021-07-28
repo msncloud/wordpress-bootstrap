@@ -1,14 +1,14 @@
 WP BOOTSTRAP
 ===================
 
-Bootstrap (https://github.com/arnabwahid/wordpress-bootstrap/) in WordPress theme form.
+Bootstrap (https://github.com/msncloud/wordpress-bootstrap/) in WordPress theme form.
 
 # GETTING STARTED
 
 To get started, open Terminal or a command prompt and run:
 
 	cd path/to/wp-content/themes
-	git clone https://github.com/arnabwahid/wordpress-bootstrap.git
+	git clone https://github.com/msncloud/wordpress-bootstrap.git
 	npm install
 	grunt dev
 
